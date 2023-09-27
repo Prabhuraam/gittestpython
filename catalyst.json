@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "gitpush_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}
